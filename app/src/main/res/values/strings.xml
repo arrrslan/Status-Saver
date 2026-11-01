@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Status Saver</string>
+    <string name="tab_whatsapp">WhatsApp</string>
+    <string name="tab_business">WA Business</string>
+    <string name="tab_vault">Saved</string>
+    <string name="filter_all">All</string>
+    <string name="filter_images">Photos</string>
+    <string name="filter_videos">Videos</string>
+    <string name="auto_save">Auto-Save</string>
+    <string name="dcim_folder">DCIM/Status Saver</string>
+    <string name="notification_channel_name">Status Auto-Backup</string>
+    <string name="notification_channel_desc">Alerts when new statuses are automatically saved</string>
+</resources>
